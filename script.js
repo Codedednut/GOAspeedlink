@@ -1,5 +1,5 @@
 /* =========================================
-   GOA SPEEDLINK TECHNOLOGIES
+   GOA DIGITAL INNOVATION
    JAVASCRIPT
 ========================================= */
 
