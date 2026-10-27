@@ -412,7 +412,7 @@ textarea {
             rgba(16, 32, 39, 0.88),
             rgba(8, 19, 24, 0.88)
         ),
-        url('image/goa.jpg.jpeg'); /* Replace with your hero background image filename/path */
+        url('image/goa.jpg'); /* Replace with your hero background image filename/path */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -549,7 +549,7 @@ textarea {
 .portfolio-one {
     background:
         linear-gradient(135deg, rgba(23, 37, 43, 0.82), rgba(10, 22, 27, 0.82)),
-        url('/image/hoh.jpg.jpeg'); /* Replace with your House of Rayoor project image filename */
+        url('/image/hoh.jpg'); /* Replace with your House of Rayoor project image filename */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -559,7 +559,7 @@ textarea {
 .portfolio-two {
     background:
         linear-gradient(135deg, rgba(16, 41, 46, 0.82), rgba(10, 22, 27, 0.82)),
-        url('image/santosempire.jpeg'); /* Replace with your Santos Empire project image filename */
+        url('image/santosempire.jpg'); /* Replace with your Santos Empire project image filename */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
